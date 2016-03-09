@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginUser</string>
+    <string name="action_settings">Settings</string>
+    <string name="Entrar">Entrar</string>
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="title_activity_verificar_preferencias">VerificarPreferencias</string>
+    <string name="Guardar">Guardar</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Confirm">Confirmacion</string>
+    <string name="Guardar_Registro">Guardar Registro</string>
+    <string name="Registrar">Registrar</string>
+</resources>
